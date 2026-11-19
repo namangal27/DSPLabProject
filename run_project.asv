@@ -1,0 +1,5 @@
+clc;
+clear;
+close all;
+
+ela = generate_ela('test.jpg.jpeg', 'tampered.jpg', 90);
